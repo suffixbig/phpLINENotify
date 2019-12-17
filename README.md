@@ -1,0 +1,2 @@
+# phpLINENotify
+有人說file_get_contents可在HTTP中使用，但不能在HTTPS下使用 是錯的
