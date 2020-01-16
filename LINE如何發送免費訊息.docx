@@ -1,0 +1,36 @@
+#LINE 如何發送免費訊息
+
+#不要看這篇
+http://studyhost.blogspot.com/2016/12/linebot6-botline-notify.html 看到整個流程 這比 LINE BOT 的註冊還麻煩
+#看這篇
+https://bustlec.github.io/note/2018/07/10/line-notify-using-python/ 使用 Python 實作發送 LINE Notify 訊息
+
+https://github.com/suffixbig/phpLINENotify/blob/master/?? ??? ??? ??? ??? ?我提供的原碼下載處
+--------------------------------------------------------------------------
+申請 LINE Notify 發行權杖
+需擁有 LINE 帳號
+至 https://notify-bot.line.me/zh_TW/ 進行登入
+點選右上方 帳號名稱選單中的「個人頁面」=>點選
+發行存取權杖
+
+@linenotify 官方帳號
+https://notify-bot.line.me/doc/en/ 官方說明
+
+message????Required????String????1000 characters max
+--------------------------------------------------------------------------
+LINE Notify 註冊比寫程式難
+服務圖片????
+服務名稱????通知服務
+服務概要????通知
+服務網址????https://1-0.tw/DEMO/line_login/index.php
+企業／經營者名稱????台灣碼農
+所在國家／地區????台灣
+負責人姓名????10號工程師
+電子郵件帳號????suffixbig@gmail.com
+Callback URL????https://1-0.tw/DEMO/line_login/callback.php
+https://1-0.tw/DEMO/line_login/user.php
+
+Client ID????sSjX7fCUwnfT1a8IS08zc7
+Client Secret????FEdvLtjf7SEvNbrwLEH6JLvAXGDGJh3Imo4BRCswoj9
+權杖:JSBykMTRUDFsKBP8k6yjsnblLRJ0iLKknbAuVRbG9lj
+
