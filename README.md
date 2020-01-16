@@ -10,6 +10,7 @@ check_no_abnormal2.php		PHP檢查網站是否異常+LINE免費發送訊息通知
 
 只需要把以上程式改成，正常不通知，異常才通知，然後加入排程每10分鐘執行一次就搞定了
 
+https://github.com/suffixbig/phpLINENotify/                    我提供的github原碼下載處
 ------------------------------------------------------------------------------------------------------------------
 # LINE 如何發送免費訊息
 
@@ -18,7 +19,6 @@ http://studyhost.blogspot.com/2016/12/linebot6-botline-notify.html 看到整個�
 #看這篇
 https://bustlec.github.io/note/2018/07/10/line-notify-using-python/ 使用 Python 實作發送 LINE Notify 訊息
 
-https://github.com/suffixbig/phpLINENotify/                    我提供的原碼下載處
 --------------------------------------------------------------------------
 申請 LINE Notify 發行權杖
 需擁有 LINE 帳號
